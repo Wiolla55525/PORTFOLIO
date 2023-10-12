@@ -4,7 +4,7 @@
     gap: 40px
 }
 
-.portfolio__items {
+.portfolio__item {
     background: var(--color-bg-variant);
     padding: 20px;
     border-radius: 35px;
