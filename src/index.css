@@ -22,10 +22,17 @@ code {
 }
 
 :root {
-  --color-bg: #1f1f38;
-  --color-bg-variant: #2c2c6c;
-  --color-primary: #4db5ff;
-  --color-primary-variant: rgba(77, 181, 255, 0.4);
+  --color-bg: #2b2d2d;
+
+ /* --color-bg-variant: #2c2c6c;*/
+  --color-bg-variant: #967272;
+
+  --color-primary: #f3a4a4;
+ /* --color-primary: #4db5ff; */
+
+  /* --color-primary-variant: rgba(77, 181, 255, 0.4); */
+  --color-primary-variant: #8b6969;
+  
   --color-white: #fff;
   --color-light: rgba(255, 255, 255, 0.6);
 

@@ -14,7 +14,6 @@ export const Footer = () => {
         <li><a href='#services'>Services</a></li>
         <li><a href='#portfolio'>Portfolio</a></li>
         <li><a href='#ontact'>Contact</a></li>
-        <li><a href='#'>Home</a></li>
       </ul>
 
       <div className="footer__socials">

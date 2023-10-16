@@ -15,6 +15,7 @@ footer a {
     font-weight: 500;
     margin-bottom: 32px;
     display: inline-block;
+    text-decoration: none;
 }
 
 .permalinks {
