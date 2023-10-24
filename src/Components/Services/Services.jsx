@@ -16,25 +16,29 @@ export const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consectetur </p>
+              <p>Information architecture </p>
             </li>
+            {/* Develop an information architecture that structures the content, 
+            navigation, and functionality of the product/service */}
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consectetur </p>
+              <p>Interaction design </p>
             </li>
+            {/* Design the way users interact with the product/service, 
+            including user flows, transitions, and animations */}
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consectetur </p>
+              <p>Responsive design </p>
             </li>
+            {/* Ensure that the design is usable and visually appealing on
+             different devices and screen sizes through responsive design */}
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consectetur </p>
+              <p>Front-end development </p>
             </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consectetur </p>
-            </li>
-            
+            {/* Translate the design into code and implement 
+            the UI/UX on the website or app */}
+         
           </ul>
         </article>
         {/* WEB DEV*/}
@@ -45,23 +49,23 @@ export const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consectetur </p>
+              <p>Custom Web Design </p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consectetur </p>
+              <p>Responsive and Mobile-Friendly Development </p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consectetur </p>
+              <p>Accessibility Compliance </p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consectetur </p>
+              <p>Single Page Applications </p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consectetur </p>
+              <p>Frontend Framework (React) </p>
             </li>
             
           </ul>
@@ -75,15 +79,15 @@ export const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consectetur </p>
+              <p>Using CSS Preprocessors </p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consectetur </p>
+              <p>Using APIs and RESTful Services </p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consectetur </p>
+              <p>Creating Maintaining Mobile and Responsive Design </p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />

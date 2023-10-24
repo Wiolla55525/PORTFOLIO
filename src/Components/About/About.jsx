@@ -20,7 +20,7 @@ export const About = () => {
             <div className="about__card">
               <FaAward className="about__icon" />
               <h5>Experience</h5>
-              <small> 1 Year Working</small>
+              <small> 1 Year Learning</small>
             </div>
             <div className="about__card">
               <VscFolderLibrary className="about__icon" />
@@ -29,10 +29,12 @@ export const About = () => {
             </div>
           </div>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit
-            cupiditate earum deserunt? Ipsam a mollitia, excepturi cupiditate
-            quis eos expedita? Eum perspiciatis mollitia omnis deserunt culpa
-            sit amet nisi quo!
+          A goal-oriented Entry Level Frontend Developer with 
+          experience in HTML, CSS, JavaScript, React 
+          who wants to use technical skills and creativity to develop 
+          interacting user experiences and grow in a professional career. 
+          Looking to use effective debugging, code optimization, and project 
+          collaboration to create applications that exceed user expectations.
           </p>
 
           <a href="#contact" className="btn btn-primary">
