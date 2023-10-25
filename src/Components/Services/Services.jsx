@@ -5,8 +5,7 @@ import { BiCheck } from 'react-icons/bi'
 export const Services = () => {
   return (
     <section id='services'>
-      <h5>What I offer</h5>
-      <h2>Services</h2>
+      <h2>My vision</h2>
 
       <div className="container services__container">
         <article className='service'>
@@ -44,60 +43,57 @@ export const Services = () => {
         {/* WEB DEV*/}
         <article className='service'>
           <div className="service__head">
-            <h3>WEB Development</h3>
+            <h3>Goals as Front End Developer</h3>
           </div>
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Custom Web Design </p>
+              <p>Combine technology and design to create inviting, <br/>
+                easy-to-use websites for consumers </p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Responsive and Mobile-Friendly Development </p>
+              <p>Implement the requested design based on the <br/> requirements provided 
+                on the specified devices for <br/> the supported browsers </p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Accessibility Compliance </p>
+              <p>Stay up-to-date with the latest trends and technologies </p>
             </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Single Page Applications </p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Frontend Framework (React) </p>
-            </li>
-            
+                  
           </ul>
         </article>
 
         {/*Content Creation */}
         <article className='service'>
           <div className="service__head">
-            <h3>Content Creation</h3>
+            <h3>Skills valued the most</h3>
           </div>
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Using CSS Preprocessors </p>
+              <p>Communication </p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Using APIs and RESTful Services </p>
+              <p>Creativity </p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Creating Maintaining Mobile and Responsive Design </p>
+              <p>Adaptability </p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consectetur </p>
+              <p>Work ethic </p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consectetur </p>
+              <p>Time management </p>
             </li>
-            
+            <li>
+              <BiCheck className='service__list-icon' />
+              <p>Problem solving </p>
+            </li>
           </ul>
         </article>
       </div>
