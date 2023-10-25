@@ -10,33 +10,34 @@ export const Services = () => {
       <div className="container services__container">
         <article className='service'>
           <div className="service__head">
-            <h3>UI/UX Design</h3>
+            <h3>What can I offer</h3>
           </div>
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Information architecture </p>
+              <p>Enthusiasm and Eagerness to Learn </p>
             </li>
-            {/* Develop an information architecture that structures the content, 
-            navigation, and functionality of the product/service */}
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Interaction design </p>
+              <p>Solid Foundation </p>
             </li>
             {/* Design the way users interact with the product/service, 
             including user flows, transitions, and animations */}
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Responsive design </p>
+              <p>Fresh Perspectives </p>
             </li>
             {/* Ensure that the design is usable and visually appealing on
              different devices and screen sizes through responsive design */}
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Front-end development </p>
+              <p>Professionalism </p>
             </li>
-            {/* Translate the design into code and implement 
-            the UI/UX on the website or app */}
+            <li>
+              <BiCheck className='service__list-icon' />
+              <p>Initiative </p>
+            </li>
+      
          
           </ul>
         </article>
@@ -59,6 +60,10 @@ export const Services = () => {
             <li>
               <BiCheck className='service__list-icon' />
               <p>Stay up-to-date with the latest trends and technologies </p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon' />
+              <p>Constant skills evolution </p>
             </li>
                   
           </ul>
@@ -93,6 +98,10 @@ export const Services = () => {
             <li>
               <BiCheck className='service__list-icon' />
               <p>Problem solving </p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon' />
+              <p>Collaboration </p>
             </li>
           </ul>
         </article>
